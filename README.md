@@ -1,7 +1,7 @@
 # Indian Startups Funding Dashboard
 
 Welcome to the Startup Funding Dashboard project! This project is designed to provide comprehensive insights into the funding landscape of Indian startups from January 2015 to January 2020. Leveraging powerful data analysis and visualization tools, this dashboard offers detailed views from both company and investor perspectives, as well as general trends and patterns in the startup ecosystem.
-
+## The Project can be accessed through [https://startups-funding-dashboard.streamlit.app/](Link)
 ## Overview
 
 The Startup Funding Dashboard is built using the following technologies:
