@@ -14,8 +14,8 @@ The Startup Funding Dashboard is built using the following technologies:
 The app is divided into three main sections, each offering a unique perspective on the startup funding data:
 
 1. **General Analysis**
-2. **Startup POV **
-3. **Investor POV **
+2. **Startup POV**
+3. **Investor POV**
 
 ## Features
 
